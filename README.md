@@ -11,7 +11,7 @@ The *Intern Application Portal* is a secure and efficient platform for collectin
 
 #### *Technologies Used*
 - *Frontend:* HTML5, CSS3, Bootstrap  
-- *Backend:* PHP, MySQL  
+- *Backend:* PHP, JavaScript, MySQL  
 - *Libraries/Tools:* FontAwesome, SweetAlert2  
 - *Server:* XAMPP (Apache, MySQL)
 
